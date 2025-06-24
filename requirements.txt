@@ -1,0 +1,9 @@
+streamlit
+fitz
+python-docx
+requests
+beautifulsoup4
+sentence-transformers
+scikit-learn
+pandas
+tqdm
